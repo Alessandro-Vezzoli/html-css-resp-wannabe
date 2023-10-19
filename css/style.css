@@ -129,12 +129,12 @@ img {
  ************************************************/
 @media screen and (max-width: 768px) {
   .container {
-    width: 758px;
+    display: contents;
   }
 }
 
 @media screen and (max-width: 480px) {
-  .brands {
-    flex-direction: column;
+  .container {
+    width: 480px;
   }
 }
