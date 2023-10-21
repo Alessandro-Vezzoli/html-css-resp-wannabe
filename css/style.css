@@ -129,7 +129,7 @@ img {
  ************************************************/
 @media screen and (max-width: 768px) {
   .container {
-    display: contents;
+    width: 100%;
   }
 }
 
